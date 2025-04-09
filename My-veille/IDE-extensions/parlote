@@ -1,0 +1,66 @@
+Je vais vous parler des IDE(environement de développements intégré) et des extensions lié 
+ 
+
+
+ nous allons parler de pourquoi utiliser un IDE quels sont les IDE les plus populaires, 
+quels IDE pour quel language de programmation
+Je vais vous parler de quelques extensions que j'utilise 
+
+Comment choisir son IDE
+
+
+
+
+Pourquoi utiliser un IDE,
+car cela améliore la productivité avec pleins d'outils lié à l'IDE, des extensions qui permettent de personnaliser son outil de travail etc...
+
+Le débogage est grandement facilité surtout si on installe les bonnes extensions
+
+Meilleures organisations et lisibilité du code 
+
+
+les IDE les plus connus sont surement VSCode, 
+tous les IDE de jetbrains, PHPStorm, PyCharm, etc
+et Visual Studio
+
+
+
+Pour chaque language de programmation il y a un IDE adapté même si on peut souvent utilisé plusieurs languages sur un IDE
+
+Jetbrains a par exemple fait une suite d'IDE qui correspond à chaque fois à un language comme pyCharm pour python RubyMine pour Ruby intellij pour Java et PHPStorm pour PHP 
+
+il y a aussi des IDE comme VSCode ou SublimeText qui permet de coder avec plein de la,nguage différent ou eclipse qui permet de coder en java et Visual STudio pour .Net
+
+
+
+
+
+
+
+
+Je vais maintenant vous présenter 4 extensions que j'utilise personnellement
+
+Prettier qui est très utile pour formatter le code et ne pas se casser la tête lorsqu'on écrit car en sauvegardant ou avec un raccourci l'extensions fait tout pour nous, indentation, saut de ligne etc...
+
+GitLens qui facilite grandement la compréhension des branches des commits etc...
+
+LiveServe qui permet de lancer un serveur local pour voir en direct les changements fait en HTML CSS ou Javascript très utiliser pour le devWeb 
+
+et Turbo Console Log que j'ai découvert récemment qui permet de faire des consoles log super rapidement en cliquant squr la variable que l'on veut logger et en cliquant sur un raccourci claver très pratique pour javascript 
+
+
+
+
+
+
+Choisir son IDE peut paraitre compliqué mais VSCode est très bien pour commencer et très facile à prendre en main 
+pour des languages comme java intellij est le plus répendu mais il est payant eclipse est très bien pour débuter
+ensuite pour c# c'est Visual Studio qui ressort le plus
+
+et les IDE de jetBrains ont souvent une version gratuites limités pour essayer des IDE dédié à chaque fois à un languages
+
+
+
+
+
+Merci de m'avoir écouté
