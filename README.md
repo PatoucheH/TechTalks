@@ -20,3 +20,10 @@ Une introduction complète au langage fonctionnel **F#**,
 ses concepts clés, ses avantages, et des exemples pratiques.
 
 ---
+
+### 3. Introduction à Blazor
+
+Une introduction Basique au Framework web et UI Blazor,  
+ses concepts clés, ses avantages, et un exemple pratique.
+
+---
