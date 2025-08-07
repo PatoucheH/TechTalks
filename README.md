@@ -23,7 +23,19 @@ ses concepts clés, ses avantages, et des exemples pratiques.
 
 ### 3. Introduction à Blazor
 
-Une introduction Basique au Framework web et UI Blazor,  
+Une introduction basique au framework web et UI **Blazor**,  
 ses concepts clés, ses avantages, et un exemple pratique.
 
 ---
+
+### 4. Authentification et Autorisation
+
+Une exploration des mécanismes d’**authentification** (prouver l'identité d’un utilisateur)  
+et d’**autorisation** (vérifier les droits d’accès), incluant les standards comme OAuth2, JWT, et OpenID Connect.
+
+---
+
+### 5. Introduction à Kubernetes
+
+Une présentation du système d’orchestration de conteneurs **Kubernetes**,  
+ses composants principaux (Pods, Services, Deployments…), son architecture, et des cas d’usage concrets.
