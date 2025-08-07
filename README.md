@@ -31,7 +31,7 @@ ses concepts clés, ses avantages, et un exemple pratique.
 ### 4. Authentification et Autorisation
 
 Une exploration des mécanismes d’**authentification** (prouver l'identité d’un utilisateur)  
-et d’**autorisation** (vérifier les droits d’accès), incluant les standards comme OAuth2, JWT, et OpenID Connect.
+et d’**autorisation** (vérifier les droits d’accès), incluant les standards comme Identity, JWT et Oauth2.0, ...
 
 ---
 
